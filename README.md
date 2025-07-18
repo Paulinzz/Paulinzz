@@ -147,6 +147,7 @@ ___
     alt="Sequencias GitHub"
     title="Sequencias"
     height="180px"
+    width="400px"
     style="padding-right: 10px; padding-bottom: 10px;" 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Paulinzz&theme=dracula&locale=pt_BR" 
   />
@@ -154,13 +155,15 @@ ___
     alt="Estatísticas GitHub"
     title="Estatísticas"
     height="180px"
+    width="400px"
     style="padding-right: 10px; padding-bottom: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=Paulinzz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br" 
   />
   <img 
     alt="Linguangens Mais Utilizadas"
     title="Linguangens"
-    height="180px" 
+    height="180px"
+    width="400px"
     style="padding-right: 10px; padding-bottom: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulinzz&layout=compact&langs_count=8&theme=dracula" 
   />
