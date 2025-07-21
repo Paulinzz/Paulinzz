@@ -10,8 +10,7 @@ possa crescer junto com a equipe, colocar a mão na massa de verdade e ajudar a 
 soluções que façam sentido. Quero somar, aprender no dia a dia e mostrar que, mesmo no
 começo, já levo a sério o que faço. Aqui está meu [Linkendin](https://www.linkedin.com/in/jo%C3%A3o-paulo-814a66375/).  
 
-<p align="left">
-  <a href="https://github.com/Paulinzz?tab=repositories&sort=stargazers">
+ <a href="https://github.com/Paulinzz?tab=repositories&sort=stargazers">
     <img 
       alt="Total de estrelas" 
       title="Total de estrelas GitHub" 
@@ -26,15 +25,12 @@ começo, já levo a sério o que faço. Aqui está meu [Linkendin](https://www.l
     />
   </a>
   <a href="https://github.com/Paulinzz?tab=repositories" title="Meus Repositórios">
-   <img 
-      src="https://github-readme-stats.vercel.app/api?username=Paulinzz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
-      alt="Estatísticas do GitHub"
-/>
-
+    <img 
+      alt="Repositórios" 
+      src="https://custom-icon-badges.demolab.com/badge/Repositórios-232323?style=for-the-badge&color=blackgreen&logo=repo" 
     />
   </a>
 </p>
-
 
 ___
 
