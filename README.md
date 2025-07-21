@@ -31,7 +31,7 @@ começo, já levo a sério o que faço. Aqui está meu [Linkendin](https://www.l
         src="https://custom-icon-badges.demolab.com/badge/Repositórios-232323?style=for-the-badge&color=blackgreen&logo=repo" 
     />
 </a>
->
+
 
 ___
 
