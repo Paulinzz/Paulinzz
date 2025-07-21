@@ -17,17 +17,21 @@ começo, já levo a sério o que faço. Aqui está meu [Linkendin](https://www.l
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Paulinzz?color=ffd700&style=for-the-badge&labelColor=ffd700&logo=star&label=estrelas"
         />
-    <a href="https://github.com/Paulinzz?tab=repositories">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Paulinzz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    <a href="https://github.com/Paulinzz?tab=repositories" title="Meus Repositórios">
-        <img 
-            alt="Repositórios" 
-            src="https://custom-icon-badges.demolab.com/badge/Repositórios-232323?style=for-the-badge&color=blackgreen&logo=repo" 
-    </a>
-</p>
+<a href="https://github.com/Paulinzz?tab=repositories">
+    <img 
+        alt="Seguidores" 
+        title="Me siga no GitHub" 
+        src="https://custom-icon-badges.demolab.com/github/followers/Paulinzz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+</a>
+
+<a href="https://github.com/Paulinzz?tab=repositories" title="Meus Repositórios">
+    <img 
+        alt="Repositórios" 
+        src="https://custom-icon-badges.demolab.com/badge/Repositórios-232323?style=for-the-badge&color=blackgreen&logo=repo" 
+    />
+</a>
+>
 
 ___
 
