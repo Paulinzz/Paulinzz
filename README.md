@@ -11,7 +11,7 @@ soluções que façam sentido. Quero somar, aprender no dia a dia e mostrar que,
 começo, já levo a sério o que faço. Aqui está meu [Linkendin](https://www.linkedin.com/in/jo%C3%A3o-paulo-814a66375/).  
 
 <p align="left">
-   <a href="https://github.com/Paulinzz?tab=stars">
+   <a href="https://github.com/Paulinzz?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
