@@ -26,9 +26,11 @@ começo, já levo a sério o que faço. Aqui está meu [Linkendin](https://www.l
     />
   </a>
   <a href="https://github.com/Paulinzz?tab=repositories" title="Meus Repositórios">
-    <img 
-      alt="Repositórios" 
-      src="https://custom-icon-badges.demolab.com/badge/Repositórios-232323?style=for-the-badge&color=blackgreen&logo=repo" 
+   <img 
+      src="https://github-readme-stats.vercel.app/api?username=Paulinzz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
+      alt="Estatísticas do GitHub"
+/>
+
     />
   </a>
 </p>
