@@ -15,7 +15,7 @@ começo, já levo a sério o que faço. Aqui está meu [Linkendin](https://www.l
   <img 
     alt="Total de estrelas" 
     title="Total de estrelas GitHub" 
-    src="https://custom-icon-badges.demolab.com/github/stars/Paulinzz?color=ffd700&style=for-the-badge&labelColor=ffd700&logo=star&label=estrelas"
+    src="https://custom-icon-badges.demolab.com/github/stars/Paulinzz?color=yellow&style=for-the-badge&labelColor=yellow&logo=star"
   />
 </a>
 <a href="https://github.com/Paulinzz?tab=repositories">
