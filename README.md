@@ -11,26 +11,8 @@ soluções que façam sentido. Quero somar, aprender no dia a dia e mostrar que,
 começo, já levo a sério o que faço. Aqui está meu [Linkendin](https://www.linkedin.com/in/jo%C3%A3o-paulo-814a66375/).  
 
 
-<a href="https://github.com/Paulinzz?tab=repositories&sort=stargazers">
-  <img 
-    alt="Total de estrelas" 
-    title="Total de estrelas GitHub" 
-    src="https://custom-icon-badges.demolab.com/github/stars/Paulinzz?color=yellow&style=for-the-badge&labelColor=yellow&logo=star"
-  />
-</a>
-<a href="https://github.com/Paulinzz?tab=repositories">
-  <img 
-    alt="Seguidores" 
-    title="Me siga no GitHub" 
-    src="https://custom-icon-badges.demolab.com/github/followers/Paulinzz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-  />
-</a>
-<a href="https://github.com/Paulinzz?tab=repositories" title="Meus Repositórios">
-  <img 
-    alt="Repositórios" 
-    src="https://custom-icon-badges.demolab.com/badge/Repositórios-232323?style=for-the-badge&color=blackgreen&logo=repo" 
-  />
-</a>
+<a href="https://github.com/Paulinzz?tab=repositories&sort=stargazers"><img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Paulinzz?color=yellow&style=for-the-badge&labelColor=yellow&logo=star"/></a><a href="https://github.com/Paulinzz?tab=repositories"><img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Paulinzz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a><a href="https://github.com/Paulinzz?tab=repositories" title="Meus Repositórios"><img alt="Repositórios" src="https://custom-icon-badges.demolab.com/badge/Repositórios-232323?style=for-the-badge&color=blackgreen&logo=repo"/></a>
+
 
 ___
 
