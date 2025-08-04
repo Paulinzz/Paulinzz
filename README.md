@@ -1,14 +1,11 @@
 # 🧑‍💻 João Paulo
  
- **`Desenvolvedor FullStack`**
+ **`Desenvolvedor FullStack em ascensão`**
 
- Sou estudante de Informática no Instituto Federal, curioso por natureza e apaixonado por
-tecnologia desde que descobri que dava pra criar mundos com algumas linhas de código. Tenho
-aprendido e praticado bastante com Python, JavaScript, Git e lógica de programação, sempre
-buscando entender o ‘porquê’ das coisas, não só o ‘como’. Estou em busca de um estágio onde eu
-possa crescer junto com a equipe, colocar a mão na massa de verdade e ajudar a construir
-soluções que façam sentido. Quero somar, aprender no dia a dia e mostrar que, mesmo no
-começo, já levo a sério o que faço. Aqui está meu [Linkendin](https://www.linkedin.com/in/jo%C3%A3o-paulo-814a66375/).  
+
+Estudante de Informática Para Internet no Instituto Federal do Rio Grande do Norte (IFRN)
+
+Aqui está meu [Linkendin](https://www.linkedin.com/in/jo%C3%A3o-paulo-814a66375/).  
 
 
 <a href="https://github.com/Paulinzz?tab=repositories&sort=stargazers"><img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Paulinzz?color=yellow&style=for-the-badge&labelColor=yellow&logo=star"/></a><a href="https://github.com/Paulinzz?tab=repositories"><img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Paulinzz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a><a href="https://github.com/Paulinzz?tab=repositories" title="Meus Repositórios"><img alt="Repositórios" src="https://custom-icon-badges.demolab.com/badge/Repositórios-232323?style=for-the-badge&color=blackgreen&logo=repo"/></a>
