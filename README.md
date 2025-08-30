@@ -10,22 +10,24 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=E0FFFF&width=900&size=22&center=true&lines=I+am+from+Brazil;Computer+Science+for+the+Internet+at+the+Federal+Institute+of+Rio+Grande+do+Norte+(IFRN);Web+Developer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=E0FFFF&width=900&size=22&center=true&lines=I+am+from+Brazil;Student+of+Computer+Science+for+the+Internet;at+the+Federal+Institute+of+Rio+Grande+do+Norte+(IFRN);Web+Developer;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 
-# 🧑‍💻 João Paulo
+<div align="center">
+ <img alt="Static Badge" src="https://img.shields.io/badge/Paulinzz-E0FFFF?style=flat&logo=arch%20linux">
+</div>
+
  
- **`Desenvolvedor FullStack em ascensão`**
+<p align="center">
+    <strong>
+     Desenvolvedor FullStack em ascensão
+    </strong>
+</p>
 
-
-Estudante de Informática Para Internet no Instituto Federal do Rio Grande do Norte (IFRN)
-
-<!Aqui está meu [Linkendin](https://www.linkedin.com/in/jo%C3%A3o-paulo-814a66375/).  !>
-
-
+<div align="center">
 <a href="https://github.com/Paulinzz?tab=repositories&sort=stargazers"><img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Paulinzz?color=yellow&style=for-the-badge&labelColor=yellow&logo=star"/></a><a href="https://github.com/Paulinzz?tab=repositories"><img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Paulinzz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a><a href="https://github.com/Paulinzz?tab=repositories" title="Meus Repositórios"><img alt="Repositórios" src="https://custom-icon-badges.demolab.com/badge/Repositórios-232323?style=for-the-badge&color=blackgreen&logo=repo"/></a>
-
+</div>
 
 ___
 
