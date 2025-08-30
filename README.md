@@ -166,11 +166,13 @@ ___
 
 <div align="center">
   <p>
+    <img src="https://visit-counter.vercel.app/counter.png?page=Paulinzz&s=40&c=afeeee&bg=00000000&no=1&ff=digi&tb=Profile+Visits%3A++&ta=" alt="visits">
+  </p>
+
+   <p>
     <img src="https://i.imgur.com/16ndLov.png" alt="banner" />
   </p>
-  <p>
-    <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FPaulinzz%2FPaulinzz%2F&s=40&c=afeeee&bg=00000000&no=2&ff=digi" alt="contador de visitas" />
-  </p>
+  
 </div>
 
 
