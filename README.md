@@ -10,7 +10,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=E0FFFF&width=900&size=22&center=true&lines=I+am+from+Brazil;Student+of+Computer+Science+for+the+Internet;at+the+Federal+Institute+of+Rio+Grande+do+Norte+(IFRN);Web+Developer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=00FFFF&width=900&size=22&center=true&lines=I+am+from+Brazil;Student+of+Computer+Science+for+the+Internet;at+the+Federal+Institute+of+Rio+Grande+do+Norte+(IFRN);Web+Developer;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 
