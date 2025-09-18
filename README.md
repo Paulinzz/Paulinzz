@@ -151,7 +151,7 @@ ___
   [![Static Badge](https://img.shields.io/badge/Gmail-E0FFFF?style=for-the-badge&logo=Gmail&logoColor=000000)](mailto:paulofernandesalves30@gmail.com)
   [![Static Badge](https://img.shields.io/badge/Instagram-E0FFFF?style=for-the-badge&logo=Instagram&logoColor=000000)](https://www.instagram.com/paulozwq/)
   [![Static Badge](https://img.shields.io/badge/Notion-E0FFFF?style=for-the-badge&logo=Notion&logoColor=000000)](https://www.notion.com/pt)
-  [![Static Badge](https://img.shields.io/badge/Linkedin-E0FFFF?style=for-the-badge&logo=Linkedin&logoColor=000000)](https://linkedin.com/)
+  [![Static Badge](https://img.shields.io/badge/Linkedin-E0FFFF?style=for-the-badge&logo=Linkedin&logoColor=000000)](https://www.linkedin.com/in/paulofernandesalves/)
   
 </div>
 
