@@ -25,9 +25,6 @@
     </strong>
 </p>
 
-<div align="center">
-<a href="https://github.com/Paulinzz?tab=repositories&sort=stargazers"><img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Paulinzz?color=yellow&style=for-the-badge&labelColor=yellow"/></a><a href="https://github.com/Paulinzz?tab=repositories"><img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Paulinzz?color=236ad3&labelColor=1155ba&style=for-the-badge"/></a><a href="https://github.com/Paulinzz?tab=repositories" title="Meus Repositories"><img alt="Repositories" src="https://custom-icon-badges.demolab.com/badge/Repositories-232323?style=for-the-badge&color=blackgreen&logo=repo"/></a>
-</div>
 
 ___
 
